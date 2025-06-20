@@ -1,4 +1,2 @@
 # iTCGA-Emily-Hansen
-tips to organizing research \
-Emily Hansen\
-Biologist
+This project is a part of the Summer 2025 ITCGA: Integrated Training in Computational Genomics and Data Sciences. We studied the effect of MNP AMF (magnetic nanoparticle with alternating magnetic field) therapy on Ovarian Cancer Cells. We performed differential gene expression analysis to determine which genes were upregulated and downregulated after recieving treatment. The scripts included in this repository were used to run the RNA sequence data in bash to allow us to anlayze and form conclusions about the therapy on Ovarian Cancer Cells. 
