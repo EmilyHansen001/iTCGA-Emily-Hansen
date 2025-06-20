@@ -17,7 +17,7 @@ Project Overview
 RNA-seq Analysis Pipeline on Chimera Cluster
 
 - Download FastQ Files
-  - Used `sratoolkit` and a custom `fastq-dump.sh` script to download sequencing data from SRA
+  - Used sratoolkit and a custom fastq-dump.sh script to download sequencing data from SRA
 
 - Quality Control
   - Assessed read quality using FastQC
